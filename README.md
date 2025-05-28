@@ -1,7 +1,3 @@
-Sure! Here's a polished and engaging README summary designed to intrigue recruiters and reviewers, crafted from your design brief:
-
----
-
 # 🚀 E-commerce Hackathon: A Vue-Powered Take-Home Adventure
 
 **By Alan Buenrostro | May 17 – May 22, 2025**
