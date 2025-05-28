@@ -1,5 +1,5 @@
 # 🚀 E-commerce Take Home Assigment: A Vue-Powered Take-Home Adventure
-
+[Full Design Brief](https://docs.google.com/document/d/1BxLgECz2-dKbRtX6mdr0jeugQKsTbq9YmGLzO_Au4uI/edit?usp=sharing)
 **By Alan Buenrostro | May 17 – May 22, 2025**
 
 Welcome to a lightning-fast, five-day design sprint turned hackathon — a take-home assignment that evolved into an immersive deep-dive into Vue.js, clean architecture, and UI craftsmanship. Built from scratch, this ecommerce frontend is more than just a project — it’s a story of learning, persistence, and thoughtful engineering.
