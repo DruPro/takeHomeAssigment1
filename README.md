@@ -60,4 +60,4 @@ While functional, the project sets the foundation for broader web principles:
 ---
 
 🔎 **Curious about the full journey?**
-Crack open the [Design Brief]() and explore the decisions, challenges, and breakthroughs that shaped this project. Or better yet — [check out the live site](#) and dive into the code. This isn’t just a demo. It’s a narrative.
+Crack open the Design Brief and explore the decisions, challenges, and breakthroughs that shaped this project. Or better yet — [check out the live site](https://drupro.github.io/takeHomeAssigment1/) and dive into the code. This isn’t just a demo. It’s a narrative.
