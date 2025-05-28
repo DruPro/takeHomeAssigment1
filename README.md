@@ -1,4 +1,4 @@
-# 🚀 E-commerce Hackathon: A Vue-Powered Take-Home Adventure
+# 🚀 E-commerce Take Home Assigment: A Vue-Powered Take-Home Adventure
 
 **By Alan Buenrostro | May 17 – May 22, 2025**
 
